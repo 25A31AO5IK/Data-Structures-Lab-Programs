@@ -1,0 +1,24 @@
+// C++ code to print student name,roll no,branch,section,college name //
+
+#include<iostream>
+int main()
+{
+	std::cout<<"Pasagadugula Balaganesh"<<std::endl;
+	std::cout<<"25A31A05IK"<<std::endl;
+	std::cout<<"CSE"<<std::endl;
+	std::cout<<"E"<<std::endl;
+	std::cout<<"Pragati Engineering College"<<std::endl;
+}
+
+                     // or //
+
+#include<iostream>
+using namespace std;
+int main()
+{
+ cout<<"Pasagadugula Balaganesh"<<endl;
+ cout<<"25A31A05IK"<<endl;
+ cout<<"CSE"<<endl;
+ cout<<"E"<<endl;
+ cout<<"Pragati Engineering College"<<endl;
+}                     
