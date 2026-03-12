@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"Name:Bala Ganesh";
+cout<<"Roll.No: 25A31A05IK";
+cout<<"Branch:CSE";
+cout<<"Section:E";
+}
